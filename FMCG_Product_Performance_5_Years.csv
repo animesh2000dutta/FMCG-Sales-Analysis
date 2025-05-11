@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Product_Category,Year,Units_Sold,Revenue
+P719,SmoothSkin Lotion,Personal Care,2020,45334,43640.6
+P496,HydroPlus,Beverages,2022,20989,99551.94
+P278,NatureJuice,Beverages,2023,42227,96693.07
+P195,NutriCrunch,Snacks,2023,11316,54251.95
+P458,NatureJuice,Beverages,2024,25893,60581.44
+P372,CreamyMilk,Dairy,2023,35517,173951.71
+P800,Yogurty,Dairy,2020,6959,4339.68
+P337,SmoothSkin Lotion,Personal Care,2022,32546,155323.83
+P106,NatureJuice,Beverages,2020,17060,84321.81
+P420,YumYums,Snacks,2024,5206,23376.2
+P451,FreshAir Spray,Household,2023,39862,64124.44
+P425,GlowSoap,Personal Care,2020,11186,8353.4
+P602,FreshMint Toothpaste,Personal Care,2021,4713,15809.78
+P261,FreshFizz,Beverages,2021,49314,145983.46
+P188,HydroPlus,Beverages,2022,28100,45197.27
+P256,SparkleFloor,Household,2022,31678,79337.67
+P540,CleanAll Detergent,Household,2024,48038,153294.1
+P933,CreamyMilk,Dairy,2020,30673,143615.53
+P424,YumYums,Snacks,2021,30836,39844.78
+P199,EnergyMax,Beverages,2020,42169,122605.07
+P733,GoldenButter,Dairy,2022,8073,28876.05
+P259,ShinyDishes,Household,2023,20999,78507.24
+P387,HydroPlus,Beverages,2020,21341,99718.84
+P496,EnergyMax,Beverages,2020,19079,13610.73
+P293,AromaDeo,Personal Care,2022,31630,131340.76
+P930,SnackKing,Snacks,2020,47307,57760.23
+P398,CoolCola,Beverages,2024,25141,105310.16
+P115,SnackKing,Snacks,2022,36868,149393.34
+P734,CleanAll Detergent,Household,2020,47646,106825.71
+P315,SmoothSkin Lotion,Personal Care,2020,43928,160548.43
+P697,SmoothSkin Lotion,Personal Care,2022,8897,31545.91
+P111,SilkyShampoo,Personal Care,2022,39692,150548.15
+P307,GoldenButter,Dairy,2020,27295,87288.53
+P574,FreshAir Spray,Household,2020,7933,26248.57
+P291,FreshAir Spray,Household,2022,16491,10081.29
+P115,SnackKing,Snacks,2023,4743,6963.77
+P463,ChocoTreat,Snacks,2023,14650,17767.25
+P718,GoldenButter,Dairy,2021,28497,85040.76
+P770,YumYums,Snacks,2024,31492,96019.83
+P503,GermGuard,Household,2023,33072,109284.26
+P188,FreshFizz,Beverages,2023,1868,5359.53
+P874,DailyCream,Dairy,2024,39626,105757.38
+P737,GlowSoap,Personal Care,2020,32930,110330.12
+P593,ChocoTreat,Snacks,2021,13485,61367.87
+P281,GermGuard,Household,2022,9029,17693.31
+P870,FreshFizz,Beverages,2023,43532,95900.31
+P173,EnergyMax,Beverages,2021,42056,50997.2
+P615,Yogurty,Dairy,2020,43818,96457.59
+P220,GoldenButter,Dairy,2021,1843,6711.34
+P319,FreshAir Spray,Household,2021,2196,1107.43
+P650,HydroPlus,Beverages,2024,47033,171846.9
+P381,AromaDeo,Personal Care,2024,11997,43050.69
+P463,CoolCola,Beverages,2021,28317,16476.71
+P654,HydroPlus,Beverages,2023,45315,104842.19
+P443,DailyCream,Dairy,2022,39350,47194.23
+P477,NutriCrunch,Snacks,2020,33859,156868.75
+P829,NatureJuice,Beverages,2023,19712,70837.2
+P627,GermGuard,Household,2024,28854,66492.76
+P125,CheeseLand,Dairy,2021,5385,6800.18
+P265,FreshFizz,Beverages,2024,14095,26529.72
+P385,SnackKing,Snacks,2022,49387,107382.6
+P763,CleanAll Detergent,Household,2022,1692,7509.69
+P946,GoldenButter,Dairy,2020,49143,50648.84
+P410,SparkleFloor,Household,2024,48403,166655.16
+P866,ShinyDishes,Household,2020,25862,105729.95
+P399,ChocoTreat,Snacks,2023,20426,26805.24
+P178,NutriCrunch,Snacks,2023,35157,144193.03
+P373,GlowSoap,Personal Care,2023,10504,18707.51
+P607,CoolCola,Beverages,2020,3063,11004.97
+P577,HydroPlus,Beverages,2020,46301,94022.89
+P553,DailyCream,Dairy,2023,14397,67177.49
+P332,CrispyBites,Snacks,2022,27480,15727.09
+P974,FreshMint Toothpaste,Personal Care,2023,21148,79365.9
+P487,SilkyShampoo,Personal Care,2023,35742,27319.39
+P540,CheeseLand,Dairy,2024,27786,110833.73
+P855,CoolCola,Beverages,2024,39743,44767.15
+P909,NutriCrunch,Snacks,2023,34115,131300.44
+P844,CrispyBites,Snacks,2023,36973,45208.52
+P642,ShinyDishes,Household,2023,7962,10563.15
+P444,FreshFizz,Beverages,2024,46499,132220.44
+P166,NutriCrunch,Snacks,2024,16184,29979.45
+P676,CleanAll Detergent,Household,2021,5413,9664.79
+P259,GoldenButter,Dairy,2020,38282,186951.78
+P908,GlowSoap,Personal Care,2022,38734,159609.42
+P350,YumYums,Snacks,2021,27078,70730.5
+P165,SilkyShampoo,Personal Care,2022,26094,28940.35
+P233,YumYums,Snacks,2024,14468,19095.59
+P956,CreamyMilk,Dairy,2021,30708,90179.48
+P316,ShinyDishes,Household,2023,29435,71884.32
+P592,SmoothSkin Lotion,Personal Care,2023,16085,36694.97
+P699,YumYums,Snacks,2021,40632,27867.07
+P228,CreamyMilk,Dairy,2022,34088,161399.97
+P797,EnergyMax,Beverages,2024,10972,42520.9
+P233,Yogurty,Dairy,2024,41842,79959.73
+P552,EnergyMax,Beverages,2023,7737,15403.33
+P739,EnergyMax,Beverages,2022,1208,2820.07
+P901,CreamyMilk,Dairy,2020,35763,29932.85
+P907,NatureJuice,Beverages,2022,5990,20441.53
+P787,AromaDeo,Personal Care,2021,47183,207612.1
+P433,YumYums,Snacks,2022,26270,17104.57
+P318,CoolCola,Beverages,2023,17143,52116.17
+P620,SparkleFloor,Household,2023,10581,36174.31
+P409,SnackKing,Snacks,2021,43480,201254.39
+P837,HydroPlus,Beverages,2021,47980,41161.97
+P936,GermGuard,Household,2022,12578,54552.87
+P444,GoldenButter,Dairy,2020,8211,26725.37
+P498,AromaDeo,Personal Care,2024,4201,2860.72
+P907,AromaDeo,Personal Care,2022,45248,103945.2
+P239,CreamyMilk,Dairy,2024,43009,184910.93
+P294,SnackKing,Snacks,2020,47833,211784.76
+P647,CleanAll Detergent,Household,2021,40382,166023.15
+P942,ShinyDishes,Household,2021,3690,10840.72
+P419,SmoothSkin Lotion,Personal Care,2022,18071,20043.06
+P891,ShinyDishes,Household,2023,30120,145839.57
+P884,GermGuard,Household,2023,22792,42832.04
+P141,NatureJuice,Beverages,2021,10564,47997.55
+P566,CoolCola,Beverages,2022,13962,11132.33
+P245,GlowSoap,Personal Care,2022,2900,12884.88
+P428,HydroPlus,Beverages,2021,1283,675.89
+P295,CreamyMilk,Dairy,2020,13479,38061.89
+P451,HydroPlus,Beverages,2023,28185,126788.34
+P939,AromaDeo,Personal Care,2022,24800,71815.63
+P251,Yogurty,Dairy,2022,35991,127294.21
+P263,NatureJuice,Beverages,2022,24918,22221.14
+P703,SnackKing,Snacks,2021,41271,87963.59
+P668,AromaDeo,Personal Care,2023,44754,67383.53
+P416,CleanAll Detergent,Household,2021,3493,7638.21
+P904,ShinyDishes,Household,2020,30264,39310.2
+P947,CreamyMilk,Dairy,2023,15346,75301.02
+P537,CoolCola,Beverages,2020,3806,13866.16
+P121,NatureJuice,Beverages,2020,18396,69023.34
+P829,GlowSoap,Personal Care,2024,30801,141761.45
+P305,CrispyBites,Snacks,2023,11875,51751.9
+P727,ShinyDishes,Household,2024,28846,63433.73
+P526,GlowSoap,Personal Care,2021,2775,6313.69
+P141,GermGuard,Household,2023,30297,18416.46
+P358,CheeseLand,Dairy,2021,42833,58889.27
+P128,AromaDeo,Personal Care,2022,28702,115317.73
+P858,DailyCream,Dairy,2021,41285,196996.12
+P235,EnergyMax,Beverages,2023,28643,132445.47
+P905,Yogurty,Dairy,2024,47577,195967.95
+P648,DailyCream,Dairy,2020,45724,182326.85
+P441,DailyCream,Dairy,2023,3114,8042.74
+P174,CreamyMilk,Dairy,2024,35026,47097.45
+P969,SilkyShampoo,Personal Care,2023,26940,52749.66
+P446,SparkleFloor,Household,2020,48943,229877.2
+P178,GoldenButter,Dairy,2020,25113,46061.14
+P390,FreshFizz,Beverages,2024,32505,138831.96
+P585,DailyCream,Dairy,2022,37198,49150.18
+P630,FreshAir Spray,Household,2022,42296,130419.64
+P806,EnergyMax,Beverages,2020,23883,18066.02
+P434,CrispyBites,Snacks,2022,12558,14347.39
+P258,GermGuard,Household,2022,26962,17857.42
+P332,CleanAll Detergent,Household,2023,16994,43721.49
+P249,CheeseLand,Dairy,2020,27465,122240.95
+P549,ShinyDishes,Household,2020,14975,39536.31
+P139,Yogurty,Dairy,2020,38938,149646.7
+P820,FreshFizz,Beverages,2021,1985,3180.39
+P577,Yogurty,Dairy,2021,9312,4977.08
+P796,CrispyBites,Snacks,2020,41325,103066.94
+P146,YumYums,Snacks,2021,36426,38133.86
+P525,NatureJuice,Beverages,2022,25846,34179.26
+P630,YumYums,Snacks,2020,31309,93090.67
+P719,DailyCream,Dairy,2022,46491,90474.58
+P317,ChocoTreat,Snacks,2020,43410,121940.55
+P326,NatureJuice,Beverages,2022,43752,132585.18
+P463,CoolCola,Beverages,2020,43181,52205.12
+P589,CleanAll Detergent,Household,2020,10052,29192.88
+P796,CreamyMilk,Dairy,2024,44683,212509.61
+P382,SilkyShampoo,Personal Care,2020,12507,38902.94
+P241,FreshFizz,Beverages,2022,9046,6993.87
+P290,Yogurty,Dairy,2022,1477,4407.65
+P702,CheeseLand,Dairy,2021,12604,19528.87
+P847,HydroPlus,Beverages,2021,5360,8144.1
+P155,DailyCream,Dairy,2024,16480,79986.15
+P459,FreshMint Toothpaste,Personal Care,2024,14507,33499.69
+P615,NatureJuice,Beverages,2023,3824,10768.2
+P653,NatureJuice,Beverages,2023,17609,28371.19
+P601,ShinyDishes,Household,2020,40421,35667.48
+P152,Yogurty,Dairy,2021,22001,54457.31
+P857,FreshMint Toothpaste,Personal Care,2023,3490,4250.96
+P113,Yogurty,Dairy,2021,12910,58078.61
+P933,GlowSoap,Personal Care,2023,48362,221421.57
+P930,CrispyBites,Snacks,2022,31139,136707.66
+P396,HydroPlus,Beverages,2020,33483,156787.03
+P128,CoolCola,Beverages,2021,3332,16592.24
+P735,ChocoTreat,Snacks,2020,12443,23765.84
+P324,CoolCola,Beverages,2023,3112,8968.49
+P674,GlowSoap,Personal Care,2023,14704,65484.06
+P860,Yogurty,Dairy,2022,26162,13649.11
+P793,FreshMint Toothpaste,Personal Care,2022,11281,25483.26
+P205,SnackKing,Snacks,2021,42767,88568.14
+P979,SilkyShampoo,Personal Care,2020,29125,79267.29
+P760,FreshFizz,Beverages,2020,43269,103748.0
+P749,NatureJuice,Beverages,2022,43029,93313.48
+P893,ChocoTreat,Snacks,2023,9714,9941.84
+P574,CheeseLand,Dairy,2023,28475,122944.18
+P585,YumYums,Snacks,2023,3567,13404.45
+P595,SilkyShampoo,Personal Care,2022,20877,37764.73
+P403,CoolCola,Beverages,2021,18031,25198.5
+P346,FreshAir Spray,Household,2023,7410,23093.42
+P683,GoldenButter,Dairy,2020,39442,78994.03
+P102,EnergyMax,Beverages,2023,38980,45434.49
+P912,SparkleFloor,Household,2022,21341,75862.09
+P729,CrispyBites,Snacks,2020,29391,128321.95
+P614,FreshAir Spray,Household,2020,3972,9227.41
+P771,GlowSoap,Personal Care,2024,44560,102235.31
+P723,NutriCrunch,Snacks,2023,20794,73753.45
+P731,HydroPlus,Beverages,2020,48928,41956.46
+P266,CoolCola,Beverages,2022,2353,6640.64
+P999,SmoothSkin Lotion,Personal Care,2022,12892,17373.53
+P990,CrispyBites,Snacks,2024,5899,5054.68
+P714,GermGuard,Household,2021,47541,111079.81
+P777,CheeseLand,Dairy,2021,17035,71937.94
+P975,CheeseLand,Dairy,2022,21752,91644.68
+P638,FreshFizz,Beverages,2023,15822,10565.12
+P944,GermGuard,Household,2020,14887,9343.89
+P233,CrispyBites,Snacks,2020,19768,50823.31
+P599,GoldenButter,Dairy,2021,47137,45861.41
+P105,SmoothSkin Lotion,Personal Care,2020,1958,4753.97
+P680,YumYums,Snacks,2024,1902,2179.93
+P185,SmoothSkin Lotion,Personal Care,2020,26786,86691.8
+P697,GlowSoap,Personal Care,2021,35672,160095.66
+P725,GlowSoap,Personal Care,2021,25727,28195.6
+P104,FreshFizz,Beverages,2023,36772,112636.54
+P371,HydroPlus,Beverages,2021,31891,101013.47
+P346,YumYums,Snacks,2020,17193,19786.21
+P542,CheeseLand,Dairy,2023,26658,36597.25
+P586,CleanAll Detergent,Household,2022,31213,52568.25
+P923,SnackKing,Snacks,2020,15314,70228.76
+P196,SnackKing,Snacks,2021,29217,82527.18
+P368,GlowSoap,Personal Care,2020,38666,72921.23
+P727,YumYums,Snacks,2023,41401,80168.72
+P414,ShinyDishes,Household,2022,38225,151540.38
+P403,ShinyDishes,Household,2023,2780,6818.35
+P466,NatureJuice,Beverages,2022,39675,111459.35
+P268,CrispyBites,Snacks,2024,29288,100222.2
+P720,ChocoTreat,Snacks,2024,35245,85971.71
+P665,HydroPlus,Beverages,2021,15354,72325.33
+P361,ChocoTreat,Snacks,2024,21119,49524.2
+P201,GoldenButter,Dairy,2020,3007,11485.16
+P240,CrispyBites,Snacks,2020,9354,37203.15
+P391,FreshMint Toothpaste,Personal Care,2022,3072,5959.75
+P737,CrispyBites,Snacks,2024,9788,26578.64
+P323,HydroPlus,Beverages,2023,4362,15681.56
+P541,AromaDeo,Personal Care,2022,17446,64114.29
+P755,FreshAir Spray,Household,2021,9681,32817.21
+P456,SilkyShampoo,Personal Care,2021,32691,158400.78
+P455,NutriCrunch,Snacks,2022,2594,7687.69
+P596,DailyCream,Dairy,2024,8802,30591.01
+P372,ShinyDishes,Household,2021,4111,13857.24
+P233,FreshFizz,Beverages,2023,7844,37402.7
+P530,FreshMint Toothpaste,Personal Care,2022,44676,113593.73
+P937,SmoothSkin Lotion,Personal Care,2023,16680,10252.3
+P610,CreamyMilk,Dairy,2024,37658,132214.94
+P439,FreshFizz,Beverages,2024,26300,42187.74
+P525,GlowSoap,Personal Care,2023,46089,37455.63
+P244,GermGuard,Household,2022,4361,17136.88
+P347,GoldenButter,Dairy,2023,39340,150204.41
+P840,FreshAir Spray,Household,2020,13455,21221.16
+P133,FreshAir Spray,Household,2020,42596,78000.28
+P517,DailyCream,Dairy,2020,29929,18243.02
+P947,NatureJuice,Beverages,2023,35005,78149.6
+P953,NatureJuice,Beverages,2024,17180,25734.65
+P285,CreamyMilk,Dairy,2024,16716,17396.81
+P516,EnergyMax,Beverages,2022,26793,114602.66
+P289,SilkyShampoo,Personal Care,2020,16172,69273.46
+P407,FreshMint Toothpaste,Personal Care,2020,31614,102907.37
+P373,FreshAir Spray,Household,2023,42995,24225.66
+P364,HydroPlus,Beverages,2022,11405,45904.6
+P968,DailyCream,Dairy,2021,25929,74429.21
+P928,SmoothSkin Lotion,Personal Care,2024,36165,147943.1
+P854,EnergyMax,Beverages,2023,41675,93056.51
+P138,SilkyShampoo,Personal Care,2020,3848,18805.79
+P720,SilkyShampoo,Personal Care,2022,12394,25903.04
+P444,ChocoTreat,Snacks,2023,30465,137274.04
+P400,SparkleFloor,Household,2024,14260,57175.94
+P365,CleanAll Detergent,Household,2020,18087,54260.01
+P878,SmoothSkin Lotion,Personal Care,2022,14111,8103.07
+P986,FreshMint Toothpaste,Personal Care,2021,22098,24157.24
+P226,AromaDeo,Personal Care,2022,7492,21242.1
+P501,FreshAir Spray,Household,2023,3585,11212.09
+P450,ChocoTreat,Snacks,2024,9334,10149.06
+P905,ChocoTreat,Snacks,2022,46110,159681.03
+P315,DailyCream,Dairy,2020,33050,57975.69
+P259,HydroPlus,Beverages,2020,30091,131243.81
+P673,GlowSoap,Personal Care,2024,49947,107917.48
+P322,FreshAir Spray,Household,2020,26113,27443.03
+P979,YumYums,Snacks,2024,36744,39786.86
+P975,Yogurty,Dairy,2020,15992,49360.71
+P651,YumYums,Snacks,2022,47861,186878.82
+P968,DailyCream,Dairy,2022,47574,89134.0
+P906,CoolCola,Beverages,2024,28100,97327.37
+P191,CheeseLand,Dairy,2021,12766,10283.07
+P989,FreshMint Toothpaste,Personal Care,2021,32840,99834.11
+P268,NatureJuice,Beverages,2022,46762,43181.35
+P156,CrispyBites,Snacks,2023,23720,86258.08
+P297,SmoothSkin Lotion,Personal Care,2022,26116,112514.56
+P911,HydroPlus,Beverages,2022,2015,8872.28
+P164,EnergyMax,Beverages,2024,7734,32776.8
+P647,NutriCrunch,Snacks,2020,35798,46379.59
+P803,SmoothSkin Lotion,Personal Care,2023,36977,73121.5
+P833,GlowSoap,Personal Care,2022,8359,22500.9
+P935,DailyCream,Dairy,2022,29643,99745.51
+P687,EnergyMax,Beverages,2022,8568,13676.48
+P894,NatureJuice,Beverages,2021,19177,37338.69
+P439,GermGuard,Household,2022,13480,37786.62
+P289,EnergyMax,Beverages,2021,44251,163635.08
+P470,SparkleFloor,Household,2021,11770,45717.21
+P944,EnergyMax,Beverages,2020,46206,55891.09
+P539,AromaDeo,Personal Care,2021,40551,145446.23
+P916,GermGuard,Household,2020,32910,34305.44
+P376,NutriCrunch,Snacks,2021,32672,42323.34
+P145,CoolCola,Beverages,2020,30136,101002.25
+P424,GermGuard,Household,2023,18204,70398.66
+P313,CreamyMilk,Dairy,2020,32962,114803.32
+P632,YumYums,Snacks,2021,22920,98864.68
+P870,SilkyShampoo,Personal Care,2021,47848,115829.29
+P174,NatureJuice,Beverages,2020,5283,8131.42
+P274,SmoothSkin Lotion,Personal Care,2024,43108,58426.12
+P769,Yogurty,Dairy,2024,42794,174823.07
+P524,EnergyMax,Beverages,2021,45780,69593.87
+P123,SilkyShampoo,Personal Care,2020,43319,170408.42
+P916,DailyCream,Dairy,2020,4081,15136.58
+P307,SmoothSkin Lotion,Personal Care,2024,41993,101345.25
+P518,CleanAll Detergent,Household,2022,46286,46623.16
+P147,HydroPlus,Beverages,2022,8538,29959.87
+P710,YumYums,Snacks,2020,34091,100834.05
+P504,SilkyShampoo,Personal Care,2020,48514,166039.65
+P126,NatureJuice,Beverages,2021,33147,72785.03
+P419,AromaDeo,Personal Care,2020,20495,85119.37
+P646,YumYums,Snacks,2024,40430,106636.07
+P869,GoldenButter,Dairy,2023,49879,107758.76
+P670,GlowSoap,Personal Care,2020,43486,202681.45
+P316,CoolCola,Beverages,2021,38160,151149.74
+P526,NatureJuice,Beverages,2024,5429,9902.8
+P193,AromaDeo,Personal Care,2022,18400,65102.65
+P160,FreshMint Toothpaste,Personal Care,2022,45296,164032.29
+P907,SmoothSkin Lotion,Personal Care,2023,41547,138283.36
+P867,Yogurty,Dairy,2023,9775,35542.98
+P889,SparkleFloor,Household,2023,16799,74567.68
+P693,CheeseLand,Dairy,2020,26475,39362.72
+P971,FreshAir Spray,Household,2021,12885,39070.37
+P553,FreshAir Spray,Household,2024,11839,57473.21
+P515,ShinyDishes,Household,2022,36792,149773.41
+P637,GermGuard,Household,2024,28313,69803.74
+P830,FreshAir Spray,Household,2023,2829,10351.02
+P895,CreamyMilk,Dairy,2022,17098,32992.84
+P213,SnackKing,Snacks,2024,48822,241374.3
+P584,ChocoTreat,Snacks,2022,2788,7312.25
+P340,GoldenButter,Dairy,2023,10287,17355.64
+P612,NatureJuice,Beverages,2020,6353,12026.44
+P277,GlowSoap,Personal Care,2023,16378,31718.13
+P843,CheeseLand,Dairy,2020,47351,64203.92
+P546,CreamyMilk,Dairy,2020,36319,29630.94
+P839,FreshFizz,Beverages,2020,25630,107071.24
+P675,FreshFizz,Beverages,2020,1444,5839.56
+P325,SnackKing,Snacks,2023,24306,83092.16
+P973,SparkleFloor,Household,2023,3541,14884.57
+P883,ChocoTreat,Snacks,2020,34474,140279.28
+P421,AromaDeo,Personal Care,2023,47309,98838.24
+P406,FreshFizz,Beverages,2024,20729,56957.81
+P529,SnackKing,Snacks,2021,5677,25594.15
+P394,FreshFizz,Beverages,2023,38387,95436.2
+P219,FreshAir Spray,Household,2020,49662,77296.95
+P719,GermGuard,Household,2020,39976,61881.75
+P714,SnackKing,Snacks,2021,22207,23217.71
+P971,FreshFizz,Beverages,2020,10952,44802.96
+P897,SilkyShampoo,Personal Care,2021,45627,44392.34
+P905,Yogurty,Dairy,2023,8079,25001.66
+P566,DailyCream,Dairy,2023,11787,42588.56
+P240,HydroPlus,Beverages,2020,12751,38297.17
+P502,CreamyMilk,Dairy,2024,8793,14526.18
+P223,NatureJuice,Beverages,2020,34261,94388.79
+P908,SnackKing,Snacks,2023,24247,115217.6
+P551,YumYums,Snacks,2023,22718,44937.29
+P591,GermGuard,Household,2022,48591,33299.51
+P621,FreshMint Toothpaste,Personal Care,2023,32390,110348.18
+P110,SnackKing,Snacks,2021,27726,138305.82
+P613,DailyCream,Dairy,2024,48751,203354.93
+P490,AromaDeo,Personal Care,2023,10571,32332.45
+P772,GlowSoap,Personal Care,2021,40015,80893.15
+P368,CleanAll Detergent,Household,2023,32195,20461.46
+P589,ChocoTreat,Snacks,2020,35860,39195.34
+P774,SilkyShampoo,Personal Care,2020,16716,56619.11
+P162,DailyCream,Dairy,2020,12046,37855.24
+P287,SmoothSkin Lotion,Personal Care,2020,30574,29425.18
+P874,ChocoTreat,Snacks,2023,37334,129971.72
+P452,DailyCream,Dairy,2020,20046,98301.78
+P707,EnergyMax,Beverages,2020,26323,102980.84
+P101,SmoothSkin Lotion,Personal Care,2024,2757,7022.83
+P100,CleanAll Detergent,Household,2020,8871,24403.11
+P288,AromaDeo,Personal Care,2021,12447,28460.2
+P812,FreshMint Toothpaste,Personal Care,2021,26636,80612.68
+P861,EnergyMax,Beverages,2022,8490,29520.45
+P470,SparkleFloor,Household,2021,26057,83697.4
+P239,GermGuard,Household,2021,19143,22963.63
+P673,Yogurty,Dairy,2024,26528,64606.93
+P628,CoolCola,Beverages,2021,25958,107157.6
+P900,CleanAll Detergent,Household,2020,10553,32340.93
+P187,Yogurty,Dairy,2024,9045,21141.63
+P401,HydroPlus,Beverages,2022,21355,95567.79
+P278,AromaDeo,Personal Care,2024,25465,66996.83
+P177,SmoothSkin Lotion,Personal Care,2024,48039,96765.63
+P169,EnergyMax,Beverages,2021,38040,84678.3
+P762,CheeseLand,Dairy,2023,4120,13341.99
+P425,CoolCola,Beverages,2024,32647,58714.48
+P221,CoolCola,Beverages,2020,41780,108580.14
+P828,FreshFizz,Beverages,2022,18565,77385.56
+P308,FreshAir Spray,Household,2020,4301,19246.4
+P490,NatureJuice,Beverages,2021,36799,55356.34
+P125,CleanAll Detergent,Household,2023,28801,107719.89
+P478,GoldenButter,Dairy,2022,1339,3495.5
+P749,GermGuard,Household,2021,40051,137190.78
+P446,NatureJuice,Beverages,2024,25610,45594.87
+P216,SilkyShampoo,Personal Care,2021,11782,10677.47
+P660,CrispyBites,Snacks,2023,45022,184869.6
+P879,CrispyBites,Snacks,2023,26771,69467.64
+P954,YumYums,Snacks,2024,28169,86769.13
+P287,FreshMint Toothpaste,Personal Care,2023,6971,9638.03
+P854,CrispyBites,Snacks,2021,19975,28179.34
+P702,NutriCrunch,Snacks,2024,36891,30914.14
+P795,EnergyMax,Beverages,2021,48733,152009.4
+P667,SparkleFloor,Household,2020,46744,30207.92
+P414,CheeseLand,Dairy,2020,11957,54267.47
+P861,Yogurty,Dairy,2020,7289,10379.81
+P800,YumYums,Snacks,2023,47621,174168.51
+P169,SmoothSkin Lotion,Personal Care,2020,49673,149186.03
+P863,FreshMint Toothpaste,Personal Care,2024,17734,76800.7
+P342,DailyCream,Dairy,2024,6310,6491.16
+P673,GoldenButter,Dairy,2024,11431,32063.66
+P337,CreamyMilk,Dairy,2024,22055,85166.71
+P243,NutriCrunch,Snacks,2023,36013,54278.79
+P257,FreshAir Spray,Household,2022,39735,161052.36
+P326,FreshAir Spray,Household,2022,36319,31306.32
+P368,CoolCola,Beverages,2021,20512,25455.29
+P232,ChocoTreat,Snacks,2021,17133,79983.36
+P838,GoldenButter,Dairy,2020,19132,89583.88
+P654,AromaDeo,Personal Care,2021,29922,109771.16
+P596,CheeseLand,Dairy,2024,23093,25721.62
+P456,ShinyDishes,Household,2024,1634,7071.06
+P274,NutriCrunch,Snacks,2024,21307,24468.34
+P250,NutriCrunch,Snacks,2024,7461,22811.48
+P399,CoolCola,Beverages,2021,12423,35840.74
+P768,SmoothSkin Lotion,Personal Care,2020,2356,8469.87
+P648,ShinyDishes,Household,2021,8710,26729.27
+P185,DailyCream,Dairy,2024,27522,24439.53
+P692,DailyCream,Dairy,2020,23955,88653.62
+P712,Yogurty,Dairy,2021,22391,64133.54
+P633,CreamyMilk,Dairy,2023,46101,179744.13
+P198,SparkleFloor,Household,2023,3701,15175.87
+P497,CoolCola,Beverages,2022,34082,161170.49
+P868,CreamyMilk,Dairy,2022,35352,102210.88
+P651,SmoothSkin Lotion,Personal Care,2021,18096,59289.72
+P748,Yogurty,Dairy,2024,12596,34136.51
+P660,ChocoTreat,Snacks,2021,15302,66089.6
+P954,YumYums,Snacks,2024,15077,34324.85
+P312,CreamyMilk,Dairy,2023,49310,41552.08
+P128,ShinyDishes,Household,2022,41007,199651.54
+P383,HydroPlus,Beverages,2020,10440,52134.66
+P608,ChocoTreat,Snacks,2023,21390,18834.78
+P618,FreshAir Spray,Household,2023,18378,30547.13
+P883,CoolCola,Beverages,2021,46847,106386.69
+P213,SparkleFloor,Household,2023,10495,22803.99
+P503,YumYums,Snacks,2021,18654,20459.04
+P771,DailyCream,Dairy,2020,30712,107528.26
+P513,SmoothSkin Lotion,Personal Care,2020,24166,85847.25
+P259,FreshMint Toothpaste,Personal Care,2020,10321,25095.45
+P845,CrispyBites,Snacks,2020,39360,160096.19
+P424,Yogurty,Dairy,2020,5839,4693.36
+P167,EnergyMax,Beverages,2023,32255,72897.53
+P249,ChocoTreat,Snacks,2023,33863,45329.3
+P821,Yogurty,Dairy,2022,2435,3924.52
+P390,CrispyBites,Snacks,2020,32163,154105.22
+P201,CoolCola,Beverages,2020,18704,16353.35
+P568,HydroPlus,Beverages,2020,49290,184290.11
+P875,CheeseLand,Dairy,2021,5380,24341.58
+P376,EnergyMax,Beverages,2021,42008,177693.59
+P297,SparkleFloor,Household,2022,26930,23849.94
+P324,FreshMint Toothpaste,Personal Care,2022,3873,14893.2
+P959,GlowSoap,Personal Care,2024,14970,68304.72
+P137,FreshMint Toothpaste,Personal Care,2022,4715,2893.23
+P283,CheeseLand,Dairy,2020,47624,115895.34
+P621,NutriCrunch,Snacks,2020,24541,32153.11
+P322,FreshMint Toothpaste,Personal Care,2020,18917,27934.75
+P339,NutriCrunch,Snacks,2024,9284,41095.74
+P744,GermGuard,Household,2024,29529,23215.87
+P356,FreshMint Toothpaste,Personal Care,2023,14872,70784.88
+P366,SnackKing,Snacks,2022,23596,53985.97
+P272,YumYums,Snacks,2021,6323,8492.59
+P658,ChocoTreat,Snacks,2023,18081,85634.78
+P539,NatureJuice,Beverages,2020,39766,57461.35
+P980,FreshAir Spray,Household,2023,43172,139659.31
+P305,FreshMint Toothpaste,Personal Care,2024,31236,135788.65
+P977,EnergyMax,Beverages,2024,31168,30732.93
+P445,CrispyBites,Snacks,2020,17772,44631.07
+P901,GermGuard,Household,2021,15835,23295.26
+P582,FreshFizz,Beverages,2020,20293,47823.35
+P923,SnackKing,Snacks,2022,19830,60576.78
+P295,CreamyMilk,Dairy,2021,11025,29943.73
